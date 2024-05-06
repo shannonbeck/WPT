@@ -22,7 +22,13 @@ This serves as the initial point of research to be provided to the National Reco
 
 
 ### Authors
+#### 2023
 - Quinn Henry
 - Cole Hermanson
 - Nathan Pak
 - Alexander Singh
+
+#### 2024
+- CJ Dale
+- Kaija Weishalla
+- Brennan Worrell
